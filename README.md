@@ -4,14 +4,13 @@
 The purpose of this lab is to expose us to tcpdump and give us time to familiarize ourselves with the terminal and utilizing tools within it. We will practice various tcpdump basics such as reading from and writing to files, utilizing basic switches, and locating files in the terminal. While completing this labs, we can explore and practice using different switches and functionality within tcpdump. 
 <h2>Languages and Utilities</h2>
 
-- <b>Bash</b>
-- <b>Python </b>
-- <b>Tcpdump</b>
+- <b>Wireshark </b>
+- <b>Linux </b>
 
 <h2>Enviroments Used </h2>
 
-- <b>WireShark</b> 
-- <b>Netcat</b>
+- <b>Tcpdump</b> 
+- <b>Hack the Box (HTB)</b>
 
 <h2>Lab walk-through:</h2>
 
