@@ -13,7 +13,7 @@ The purpose of this lab is to expose us to tcpdump and give us time to familiari
 - <b>WireShark</b> 
 - <b>Netcat</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Confirming tcpdump is installed: <br/>
