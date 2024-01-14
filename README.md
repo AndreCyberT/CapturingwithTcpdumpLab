@@ -1,4 +1,4 @@
-# Capturing-with-Tcpdump
+# CapturingwithTcpdumplab
 
 <h2>Description</h2>
 The purpose of this lab is to expose us to tcpdump and give us time to familiarize ourselves with the terminal and utilizing tools within it. We will practice various tcpdump basics such as reading from and writing to files, utilizing basic switches, and locating files in the terminal. While completing this labs, we can explore and practice using different switches and functionality within tcpdump. 
