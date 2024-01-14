@@ -17,7 +17,7 @@ The purpose of this lab is to expose us to tcpdump and give us time to familiari
 
 <p align="center">
 Confirming tcpdump is installed: <br/>
-<img width= "776" alt="Confirming tcpdump is installed" src="https://imgur.com/a/FuldJ0d">
+<img width= "776" alt="Confirming tcpdump is installed" src="https://i.imgur.com/KnZlp6K.png">
   
 <p align="center">
 Creating users with Powershell <br/>
