@@ -16,12 +16,20 @@ The purpose of this lab is to expose us to tcpdump and give us time to familiari
 
 <p align="center">
 Confirming tcpdump is installed: <br/>
-<img width= "776" alt="Confirming tcpdump is installed" src="https://i.imgur.com/KnZlp6K.png">
+<img width= "776" alt="Confirming tcpdump is installed" src="https://i.imgur.com/mnXyZF6.png">
   
 <p align="center">
-Creating users with Powershell <br/>
-<img width="775" alt="creating users for power shell" src="https://github.com/AndreCyberT/ActiveDirectorylab/assets/143320920/801047e0-1ae3-426a-9f4c-e6f65c1f14bf">
+Running Capture <br/>
+<img width="775" alt="creating users for power shell" src="https://i.imgur.com/E4Qb9TL.png">
 
 <p align="center">
-Running Users <br/>
-<img width="774" alt="Running users" src="https://github.com/AndreCyberT/ActiveDirectorylab/assets/143320920/a1cc5472-fabe-4a4a-89c1-852f66cb2963">
+Designating & saving capture to a .PCAP file <br/>
+<img width="774" alt="Running users" src="https://i.imgur.com/9jsD8Av.png">
+
+<p align="center">
+Reading the Capture from a .PCAP file <br/>
+<img width="774" alt="Running users" src="https://i.imgur.com/SpzpVHs.png">
+
+<p align="center">
+Read the Capture from a .PCAP file pt 2 <br/>
+<img width="774" alt="Running users" src="https://i.imgur.com/dc3MVWM.png">
